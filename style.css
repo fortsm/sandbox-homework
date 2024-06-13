@@ -1,0 +1,7 @@
+.form-control {
+    width: 100%;
+    min-height: 30px;
+    max-width: 500px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
